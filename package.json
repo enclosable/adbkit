@@ -32,8 +32,8 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "adbkit-logcat": "^1.1.0",
-    "adbkit-monkey": "~1.0.1",
+    "adbkit-logcat": "git+https://github.com/enclosable/adbkit-logcat.git",
+    "adbkit-monkey": "git+https://github.com/enclosable/adbkit-monkey.git",
     "bluebird": "~2.9.24",
     "commander": "^2.3.0",
     "debug": "~2.1.3",
